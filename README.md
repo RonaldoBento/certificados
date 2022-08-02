@@ -4,7 +4,6 @@
 
 ## O que são os Cursos Livres e qual a sua validade no mercado?
 
-***
 
 Caracteriza-se como _**Curso Livre**_ aquele se enquadra na modalidade de educação não formal, de duração variável, que não exige escolaridade mínima para ser cursado e que tenha como objetivo o aperfeiçoamento profissional de modo a qualificar ou atualizar o aluno para o mercado de trabalho.
 
